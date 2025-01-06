@@ -1,0 +1,4 @@
+model/*
+adapters/*
+.venv
+.DS_Store
